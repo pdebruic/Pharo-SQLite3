@@ -43,6 +43,8 @@ a binary of SQlite for Windows is included in the **bin** folder
 
 See the [getting started](doc/getting_started.md) document.
 
+If you want to use glorp see the [starting glorp](doc/starting_glorp.md) document. 
+
 ## Project Infos
 
 ## History
